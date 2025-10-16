@@ -2463,14 +2463,14 @@ sqlcipher = ["sqlcipher3_binary"]
 
 [[package]]
 name = "tablib"
-version = "3.8.0"
+version = "3.9.0"
 description = "Format agnostic tabular data library (XLS, JSON, YAML, CSV, etc.)"
 optional = false
 python-versions = ">=3.9"
 groups = ["admin"]
 files = [
-    {file = "tablib-3.8.0-py3-none-any.whl", hash = "sha256:35bdb9d4ec7052232f8803908f9c7a9c3c65807188b70618fa7a7d8ccd560b4d"},
-    {file = "tablib-3.8.0.tar.gz", hash = "sha256:94d8bcdc65a715a0024a6d5b701a5f31e45bd159269e62c73731de79f048db2b"},
+    {file = "tablib-3.9.0-py3-none-any.whl", hash = "sha256:eda17cd0d4dda614efc0e710227654c60ddbeb1ca92cdcfc5c3bd1fc5f5a6e4a"},
+    {file = "tablib-3.9.0.tar.gz", hash = "sha256:1b6abd8edb0f35601e04c6161d79660fdcde4abb4a54f66cc9f9054bd55d5fe2"},
 ]
 
 [package.dependencies]
@@ -2768,4 +2768,4 @@ propcache = ">=0.2.0"
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.10"
-content-hash = "782825493f63d7a209c1ef35c5cca40bec6765c4cec51909f3ecff4ad1663622"
+content-hash = "1155d6bd3beba5818349e47912e55a6adef8b6b72be254a923c73c06f525e7eb"
